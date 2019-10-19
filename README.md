@@ -1,2 +1,2 @@
-# RealTimeDataMiningInAction
-实时数据挖掘实践
+# 实时数据挖掘实践
+<实时数据挖掘实践>是一本小册子。
