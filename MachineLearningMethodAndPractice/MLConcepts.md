@@ -31,7 +31,10 @@
 
 如图所示，机器学习根据其数据特点和任务要求，可以分为四种学习方式：监督学习，半监督学习，无监督学习和强化学习。
 
+![图5.38：示例：用于估算<font color=gray size=72>猫禁令</font>在加入到 <font color=gray size=72>附近公园</font>和<font color=gray size=72>50平米</font>的组合时对预测结果的贡献。](https://raw.githubusercontent.com/buptss/RealTimeDataMiningInAction/master/MachineLearningMethodAndPractice/picture/LearningTask.png)
+
 [监督学习]
+======
 监督学习的训练数据带有标识，对每一个样本都有几种期望的输出。这种学习方式通过比较预测结果和实际结果来不断调整特征和模型，进而取得最好的输出结果。
 
 [无监督学习]
