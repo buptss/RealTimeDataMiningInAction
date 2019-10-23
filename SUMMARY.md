@@ -21,7 +21,7 @@
 
 * [4. 机器学习方法与实践](MachineLearningMethodAndPractice/MLDescription.md)
    * [4.1 机器学习的基本概念及分类](MachineLearningMethodAndPractice/MLConcepts.md)
-   * [4.2 机器学习的一般方法及建模步骤](application/README.md)
+   * [4.2 机器学习的一般方法及建模步骤](MachineLearningMethodAndPractice/Steps.md)
    * [4.3 机器学习方法用于在线实时决策实践](application/README.md)
       * [4.3.1 如何选取标记样本](application/README.md)
       * [4.3.2 确定合适的建模目标](application/README.md)
