@@ -1,6 +1,7 @@
-# 机器学习基本概念
+# 4.1 机器学习基本概念
 对绝大多数人来说，机器学习意味着高薪、黑科技、AlphaGo、黑盒子……那么它到底是什么呢？我们通过一张漫画来简单了解一下。
-![图5.38：示例：用于估算<font color=gray size=72>猫禁令</font>在加入到 <font color=gray size=72>附近公园</font>和<font color=gray size=72>50平米</font>的组合时对预测结果的贡献。](https://raw.githubusercontent.com/buptss/RealTimeDataMiningInAction/master/MachineLearningMethodAndPractice/picture/MachineLearning.png)
+
+![avatar](picture/MachineLearning.png)
 在上面这张漫画里，你看到了什么?哪些是你觉得重要的点呢？
 
 **数据**(Data) 
@@ -34,7 +35,7 @@
 从**归纳**这种思想出发，根据数据特点和任务要求的不同，有三类机器学习问题：监督学习，半监督学习，无监督学习。
 
 
-![图5.38：示例：用于估算<font color=gray size=72>猫禁令</font>在加入到 <font color=gray size=72>附近公园</font>和<font color=gray size=72>50平米</font>的组合时对预测结果的贡献。](https://raw.githubusercontent.com/buptss/RealTimeDataMiningInAction/master/MachineLearningMethodAndPractice/picture/LearningTask.png)
+![avatar](picture/LearningTask.png)
 
 
 **监督学习**
