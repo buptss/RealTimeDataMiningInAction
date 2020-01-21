@@ -29,7 +29,7 @@
       * [4.3.4 特征工程](application/README.md)
       * [4.3.5 模型选择](application/README.md)
    * [4.4 方法小结](application/README.md)
-      * [4.4.1 NFL理论](application/README.md)
+      * [4.4.1 NFL理论](MachineLearningMethodAndPractice/Methods/NFL.md)
       * [4.4.2 MVP理论](application/README.md)
 
 * [5. 效果评估方案选取](application/README.md)
